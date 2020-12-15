@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - majascan (0.0.4):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - majascan (from `.symlinks/plugins/majascan/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  majascan:
+    :path: ".symlinks/plugins/majascan/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  majascan: 6ad3804777ac93f1ca09160e5d38197e4387081d
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
